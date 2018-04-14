@@ -12,4 +12,4 @@ My tasks were to:
 * Present any limitations of hte analysis
 * Produce appropriate and readily interpreted plots
 
-Final write-up: [Titanic_Analysis.html](http://htmlpreview.github.io/?https://github.com/emilyhazelton/udacity-1-data-analysis-intro/Titanic_Analysis.html)
+Final write-up: [Titanic_Analysis.html](http://htmlpreview.github.io/?https://github.com/emilyhazelton/udacity-1-data-analysis-intro/blob/master/Titanic_Analysis.html)
